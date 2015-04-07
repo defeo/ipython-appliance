@@ -1,0 +1,16 @@
+python
+python-virtualenv
+virtualenv
+gcc
+g++
+python-dev
+ipython
+ipython-notebook
+python-numpy
+python-matplotlib
+python-scipy
+python-pandas
+bluez
+python-usb
+python-nxt
+
