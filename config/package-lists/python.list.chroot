@@ -6,11 +6,26 @@ g++
 python-dev
 ipython
 ipython-notebook
+libblas-dev
+liblapack-dev
+libhdf5-dev
 python-numpy
 python-matplotlib
+python-tk
+python-glade2
+python-imaging
 python-scipy
 python-pandas
+python-tables
+python-statsmodels
+python-xlrd
+python-xlwt
+python-openpyxl
+python-html5lib
+python-bs4
 bluez
+python-bluez
 python-usb
+libnxt
 python-nxt
 
